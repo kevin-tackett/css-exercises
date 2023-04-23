@@ -16,12 +16,17 @@ img {
 
 .container {
   display: flex;
-  justify-content: center;
+  padding-left: 52px;
+  padding-right: 52px;
   gap: 52px;
 }
 
 .icons {
   max-width: 200px;
+  /* display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center; */
 }
 
 .footer {
